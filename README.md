@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dat</h1>
+<h2 align="center">Hi 👋, I'm Dat</h2>
 <h3 align="center">A passionate frontend developer from Hanoi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datpham-123" alt="datpham-123" /> </p>
