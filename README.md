@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Dat</h2>
-<h3 align="center">A passionate frontend developer from Hanoi</h3>
+<h3 align="center">A student from FPT University</h3>
 
 - 🌱 I’m currently learning **JavaScript, Bootstrap**
 
