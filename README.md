@@ -8,8 +8,8 @@
 ---
 ✨ I'm a frontend developer 
 
-- 📫 Long term goal: Fullstack Java
-- 💬 Tech: Java, JavaScript, React, Bootstrap
+- 📫 Long term goal: Fullstack JavaScript
+- 💬 Tech: Java, JavaScript, TypeScript, React, Bootstrap
 - 💬 Tool: npm, ESLint, Prettier
 
 
