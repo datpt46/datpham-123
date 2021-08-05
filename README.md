@@ -9,7 +9,8 @@
 ✨ I'm a frontend developer 
 
 - 📫 Long term goal: Fullstack JavaScript
-- 💬 Tech: Java, JavaScript, TypeScript, React, Bootstrap
+- 💬 Language: Java, JavaScript, TypeScript
+- 💬 Framework/Library: React, Bootstrap, Material UI
 - 💬 Tool: npm, ESLint, Prettier
 
 
