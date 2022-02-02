@@ -2,7 +2,7 @@
 <h3 align="center">👋 Hi there! I'm Dat Pham</h3>
 
 ---
-✨ I'm a frontend developer 
+✨ I love TypeScript
 
 - 💬 Language: Java, JavaScript, TypeScript
 - 💬 Frontend: React, Bootstrap, Material UI
