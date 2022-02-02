@@ -1,5 +1,5 @@
 
-<h3 align="center">👋 Hi there! I'm Dat Pham</h3>
+<h3 align="center">👋 Hi there! I'm Dat</h3>
 
 ---
 ✨ I love TypeScript
