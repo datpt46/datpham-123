@@ -4,9 +4,10 @@
 ---
 ✨ I'm a frontend developer 
 
-- 📫 Long term goal: Fullstack JavaScript
 - 💬 Language: Java, JavaScript, TypeScript
-- 💬 Framework/Library: React, Bootstrap, Material UI
-- 💬 Tool: npm, ESLint, Prettier
+- 💬 Frontend: React, Bootstrap, Material UI
+- 💬 Backend: NodeJS
+- 💬 Libraries: Redux, Redux Saga, Express
+- 💬 Deploy tools: Docker, Travis CI
 
 
