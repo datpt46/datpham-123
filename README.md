@@ -5,7 +5,7 @@
 ✨ I love TypeScript
 
 - 💬 Language: Java, JavaScript, TypeScript
-- 💬 Frontend: React, Bootstrap, Material UI
+- 💬 Frontend: React
 - 💬 Backend: NodeJS
 - 💬 Libraries: Redux, Redux Saga, Express
 - 💬 Deploy tools: Docker, Travis CI
