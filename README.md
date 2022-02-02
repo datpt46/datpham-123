@@ -7,6 +7,7 @@
 - 💬 Language: Java, JavaScript, TypeScript
 - 💬 Frontend: React
 - 💬 Backend: NodeJS
+- 💬 Database: MongoDB, PostgreSQL
 - 💬 Libraries: Redux, Redux Saga, Express
 - 💬 Deploy tools: Docker, Travis CI
 
