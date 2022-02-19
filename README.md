@@ -2,7 +2,7 @@
 <h3 align="center">👋 Hi there! I'm Dat</h3>
 
 ---
-✨ I love TypeScript
+<h4 align="center">✨ I love TypeScript</h4>
 
 
 
